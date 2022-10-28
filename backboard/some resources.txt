@@ -1,0 +1,7 @@
+tutorial on LED matrix
+https://www.youtube.com/watch?v=FK7j8IgtUX0
+
+adafruit have a basketball hoop project similiar to ours, 
+but it use circuit python which is incompatible with micropython.
+still it could be helpful
+see: https://learn.adafruit.com/led-matrix-scoreboard/circuitpython-on-feather-m4-express
